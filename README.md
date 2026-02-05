@@ -2,7 +2,7 @@
 
 ## Description
 
-**Ngrok_Server** est un projet permettant de partager des fichiers via un tunnel sécurisé créé avec Ngrok. Il offre une méthode simple pour exposer un dossier local à Internet, facilitant ainsi le partage de fichiers ou l'accès à des services locaux depuis n'importe où.
+**Ngrok_Tunnel** est un projet permettant de partager des fichiers via un tunnel sécurisé créé avec Ngrok. Il offre une méthode simple pour exposer un dossier local à Internet, facilitant ainsi le partage de fichiers ou l'accès à des services locaux depuis n'importe où.
 
 ## Structure du projet
 
